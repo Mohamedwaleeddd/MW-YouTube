@@ -117,9 +117,6 @@ input:focus{
     margin-left: 0;
     background: none;
   }
-  .videoIcon{
-    display: none;
-  }
   .voice svg{
     fill: dodgerblue;
   }
@@ -129,6 +126,8 @@ input:focus{
   .left{
     opacity: 0;
   }
+  .videoIcon{
+    display: none;
 }
 .left{
   position: fixed;
