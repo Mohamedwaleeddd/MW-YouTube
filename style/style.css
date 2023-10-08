@@ -242,12 +242,14 @@ input:focus{
   .cont2{
     width: 100% !important;
  }
+ .hide{
+  display: none;
+ }
  .video{
   width: 70%;
  }
  .voice svg{
-  margin-left: 10px;
-  fill: whitesmoke;
+  display: none;
  }
  .video .img{
   width: 100%;
