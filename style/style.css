@@ -126,9 +126,7 @@ input:focus{
   .left{
     opacity: 0;
   }
-  .videoIcon{
-    display: none;
-}
+  
 .left{
   position: fixed;
   display: grid;
@@ -244,6 +242,9 @@ input:focus{
   .cont2{
     width: 100% !important;
  }
+  .videoIcon{
+    display: none;
+}
  .hide{
   display: none;
  }
