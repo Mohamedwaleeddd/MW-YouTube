@@ -1,4 +1,3 @@
-
 *{
   padding: 0;
   margin: 0;
@@ -126,7 +125,7 @@ input:focus{
   .left{
     opacity: 0;
   }
-  
+}
 .left{
   position: fixed;
   display: grid;
@@ -249,7 +248,7 @@ input:focus{
   display: none;
  }
  .video{
-  width: 70%;
+  width: 90%;
  }
  .voice svg{
   display: none;
