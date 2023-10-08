@@ -117,6 +117,9 @@ input:focus{
     margin-left: 0;
     background: none;
   }
+  .videoIcon{
+    display: none;
+  }
   .voice svg{
     fill: dodgerblue;
   }
